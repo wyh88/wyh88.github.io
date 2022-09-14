@@ -4,22 +4,34 @@
   
     
     <entry>
-      <title>test</title>
-      <link href="/2022/09/12/test/"/>
-      <url>/2022/09/12/test/</url>
+      <title>机组</title>
+      <link href="/2022/09/14/%E8%AE%A1%E7%BB%84/"/>
+      <url>/2022/09/14/%E8%AE%A1%E7%BB%84/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h1 id="计算机的运算方式"><a href="#计算机的运算方式" class="headerlink" title="计算机的运算方式"></a>计算机的运算方式</h1><h2 id="1、原码、反码、补码、移码"><a href="#1、原码、反码、补码、移码" class="headerlink" title="1、原码、反码、补码、移码"></a>1、原码、反码、补码、移码</h2><p>原码：正数不变，负数符号位为1</p><p>反码：正数不变，负数除符号位取反</p><p>补码：正数不变，负数除符号位取反加一</p><p>移码：将补码的符号位取反</p><h2 id="2、定点表示和浮点表示"><a href="#2、定点表示和浮点表示" class="headerlink" title="2、定点表示和浮点表示"></a>2、定点表示和浮点表示</h2><p>尾数十一位,$\frac{13}{128}二进制为0.0001101000$</p><p>浮点数规格化为$0.1101000000\times2^{-11}$,$-11$表示向右移动三位</p><p><img src="C:\Users\ADMIN\AppData\Roaming\Typora\typora-user-images\image-20220913111126711.png" alt="image-20220913111126711"></p>]]></content>
       
       
+      <categories>
+          
+          <category> 课本笔记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 机组 </tag>
+            
+        </tags>
       
     </entry>
     
     
     
     <entry>
-      <title>My New Post</title>
-      <link href="/2022/09/11/My-New-Post/"/>
-      <url>/2022/09/11/My-New-Post/</url>
+      <title>test</title>
+      <link href="/2022/09/12/test/"/>
+      <url>/2022/09/12/test/</url>
       
         <content type="html"><![CDATA[]]></content>
       
